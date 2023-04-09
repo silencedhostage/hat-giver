@@ -40,7 +40,7 @@ a:Button(
     "Changelog",
     function()
         local _ = game:GetService("StarterGui")
-        _:SetCore("SendNotification", {Title = "Changelog", Text = "Added an 'Extra Hats' category, will organize it later (unless I forget ahah)", Duration = 15})
+        _:SetCore("SendNotification", {Title = "Changelog", Text = "Added an 'Extra Hats' category, will organize it later (unless I forget lols)", Duration = 15})
     end
 )
 h:Button(
