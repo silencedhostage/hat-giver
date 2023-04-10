@@ -33,7 +33,7 @@ a:Button(
         local _ = game:GetService("StarterGui")
         _:SetCore("SendNotification", {Title = "Discord", Text = "Copied to your clipboard", Duration = 15})
         wait(0.5)
-        setclipboard("https://discord.gg/duYYf6hmgN")
+        setclipboard("https://discord.gg/rUT8yCKcdC")
     end
 )
 a:Button(
