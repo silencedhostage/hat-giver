@@ -2238,7 +2238,7 @@ kk:Button(
     end
 )
 kk:Button(
-    "Black Iron Domino Crown of Inters",
+    "Black Iron Domino Crown of Interns",
     function()
         function l(a, _)
             local b = Instance.new("Weld")
